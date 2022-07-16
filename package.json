@@ -1,0 +1,21 @@
+{
+    "name": "richardxsah",
+    "version": "1.0.0",
+    "description": "",
+    "main": "RICHARDXSAH.js",
+    "scripts": {
+        "test": "node RICHARDXSAH.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/rest": "^0.3.0",
+        "discord-logs": "^2.0.1",
+        "discord.js": "^13.2.0",
+        "fresh.db": "^1.0.7",
+        "fs": "^0.0.1-security",
+        "glob": "^7.2.0",
+        "moment": "^2.29.1",
+        "util": "^0.12.4"
+    }
+}
